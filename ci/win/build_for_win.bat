@@ -63,7 +63,7 @@ if /i "%2"=="x64" (
     set qt_cmake_path=%ENV_QT_PATH%\msvc2019_64\lib\cmake\Qt5
 )
 
-:: 提示
+:: 提示----
 echo current build mode: %build_mode% %cpu_mode%
 echo qt cmake path: %qt_cmake_path%
 
