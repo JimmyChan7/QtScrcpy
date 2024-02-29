@@ -110,7 +110,7 @@ int main(int argc, char *argv[])
     g_mainDlg->show();
 
     //qInfo() << QObject::tr("This software is completely open source and free. Use it at your own risk. You can download it at the "
-            "following address:");
+    //        "following address:");
     //qInfo() << QString("QtScrcpy %1 <https://github.com/barry-ran/QtScrcpy>").arg(QCoreApplication::applicationVersion());
 
     //qInfo() << QObject::tr("If you need more professional screen projection control software, you can try the following software:");
