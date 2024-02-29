@@ -35,16 +35,16 @@
 <context>
     <name>QObject</name>
     <message>
-        <source>This software is completely open source and free. Use it at your own risk. You can download it at the following address:</source>
-        <translation>本软件完全开源免费，作者不对使用该软件产生的一切后果负责。你可以在以下地址下载：</translation>
+        <source>Welcome:</source>
+        <translation>欢迎使用：</translation>
     </message>
     <message>
-        <source>If you need more professional screen projection control software, you can try the following software:</source>
-        <translation>如果你需要更加专业的投屏控制软件，可以尝试作者开发的商业版：</translation>
+        <source>Tips:</source>
+        <translation>温馨提示：</translation>
     </message>
     <message>
         <source>QuickMirror</source>
-        <translation>极限投屏</translation>
+        <translation>MM投屏</translation>
     </message>
 </context>
 <context>
