@@ -10,7 +10,7 @@ if __name__ == '__main__':
     tag = p.read()
     p.close()
 
-    # print('get tag:', tag)
+    print('get tag:', tag)
 
     version = str(tag[1:])
     version_file = os.path.abspath(os.path.join(os.path.dirname(__file__), "../QtScrcpy/version"))
